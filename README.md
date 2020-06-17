@@ -6,7 +6,7 @@
 ### Installation
 ```
 # clone the repository
-git clone ttps://github.com/
+git clone https://github.com/daktas1/react-todo-app.git
 
 # install dependencies
 npm install

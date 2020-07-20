@@ -1,4 +1,8 @@
-# React Todo App
+# React Todo Application
+
+In this project, the user can add any action he wants to do to the list, mark her/his action as completed, or remove it completely from the list.
+
+> [Live Site](https://reactjs-to-do-list.netlify.app/ "Go to the React Todo Application")
 
 ### Requirements
 - Node.js and npm or yarn

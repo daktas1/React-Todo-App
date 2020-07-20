@@ -7,9 +7,7 @@ import About from './components/pages/About'
 import { v4 as uuidv4 } from 'uuid'
 
 class App extends Component {
-  constructor(props) {
-    super(props)
-    this.state={
+  state={
       todos: [
         {
           id:uuidv4(),
@@ -38,7 +36,7 @@ class App extends Component {
         }
       ]
     }
-  }
+  
   
 
 
